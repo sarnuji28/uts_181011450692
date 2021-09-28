@@ -1,7 +1,7 @@
 # uts_181011450692
 
 A new Flutter project.
-1[logo](https://github.com/sarnuji28/uts_181011450692/blob/master/ahmad%20sarnuji.png)
+![logo](https://github.com/sarnuji28/uts_181011450692/blob/master/ahmad%20sarnuji.png)
 
 ## Getting Started
 
